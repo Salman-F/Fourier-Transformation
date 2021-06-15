@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 Fourier-Transformation is a jupyter Notebook that allows
-` the work vizualization` of the `Fourier Transformation`.
+` the vizualization` of the `Fourier Transformation`.
 
 This project demonstrates how to work with numpy and jupyter Notebook to create:
   - an interactive jupyter Notebook showing the Fourier Transformation
